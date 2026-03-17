@@ -82,13 +82,13 @@ Now you can use the new shortcuts! To clone a repository using a especific GitHu
 ```bash
 gclone [repository_url]
 
-gremote [repository_url] [origin_name] # origin_name is optiona.
+gremote [repository_url] [origin_name] # origin_name is optional.
 
-gremoteset [repository_url] [origin_name] # origin_name is optiona.
+gremoteset [repository_url] [origin_name] # origin_name is optional.
 
 glsremote [repository_url]
 ```
 ---
 
 ## 💡 Extra Resources
-If you don't know how to set up multiple SSH keys, you can follow this tutorial: [link totorial at Dev.to](https://dev.to/chema/como-usar-varias-ssh-keys-para-diferentes-repositorios-de-github-o-gitlab-e58)
+If you don't know how to set up multiple SSH keys, you can follow this tutorial: [link tutorial at Dev.to](https://dev.to/chema/como-usar-varias-ssh-keys-para-diferentes-repositorios-de-github-o-gitlab-e58)
